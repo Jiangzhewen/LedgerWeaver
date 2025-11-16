@@ -254,4 +254,4 @@ pytest --cov=crypto_history_exporter --cov-report=html
 
 ## 许可证
 
-[待定]
+本项目采用 MIT License，详情参见 `LICENSE` 文件。
